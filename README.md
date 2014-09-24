@@ -6,8 +6,10 @@
 * I used Bootstrap framework to make this website more dinamic and friendly.
 * In case you  need more help in other projects, I have work with: PHP,HTML, CSS, JavaScrip, MySQLAdmin, Photoshop, Illustrator, Wordpress and other.
 * I hope you like the website and if you need me to add or delete or create more links, let me know.
+* 
+
+[See the presentation of this project](http://nestorcbello.com/miamidadecode/presentation/#/ "")
 
 
 *Nestor Cabrera!*
-
-An [example](http://nestorcbello.com/ "Nestor C Bello This is my site, it is not updated but I'm working on it.")
+ [Go to My Site](http://nestorcbello.com/ "Nestor C Bello This is my site, it is not updated but I'm working on it.")
